@@ -12,7 +12,7 @@ const App = () => {
   // const [prevUrl, setPrevUrl] = useState('');
   // const [pokeInfo, setPokeInfo] = useState([]);
   const [search, setSearch] = useState('');
-  const initalUrl = 'https://pokeapi.co/api/v2/pokemon?limit=150';
+  const initalUrl = 'https://pokeapi.co/api/v2/pokemon';
 
   // To fetch the Api data from service
   useEffect(() => {
