@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pokemonCards/static/css/main.a05c38f0.chunk.css",
-    "main.js": "/pokemonCards/static/js/main.83770c12.chunk.js",
-    "main.js.map": "/pokemonCards/static/js/main.83770c12.chunk.js.map",
+    "main.js": "/pokemonCards/static/js/main.b24655d2.chunk.js",
+    "main.js.map": "/pokemonCards/static/js/main.b24655d2.chunk.js.map",
     "runtime-main.js": "/pokemonCards/static/js/runtime-main.379c16a4.js",
     "runtime-main.js.map": "/pokemonCards/static/js/runtime-main.379c16a4.js.map",
     "static/js/2.8dbe926d.chunk.js": "/pokemonCards/static/js/2.8dbe926d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.379c16a4.js",
     "static/js/2.8dbe926d.chunk.js",
     "static/css/main.a05c38f0.chunk.css",
-    "static/js/main.83770c12.chunk.js"
+    "static/js/main.b24655d2.chunk.js"
   ]
 }
